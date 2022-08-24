@@ -1,4 +1,4 @@
-# IBM-Data_Science-Capstone
+# Applied_Data_Science_Capstone
 
 ### Objective is to create a machine learning pipeline to predict if the first stage of rocket launch will land successfully.
 
